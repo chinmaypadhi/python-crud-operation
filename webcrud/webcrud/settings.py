@@ -79,8 +79,8 @@ DATABASES = {
       'ENGINE': 'django.db.backends.mysql',
       'NAME': 'webcrud',
       'USER': 'root',
-      'PASSWORD': '',
-      'HOST': '127.0.0.1',
+      'PASSWORD': 'or22e1856',
+      'HOST': 'localhost',
       'PORT': '3306',
    }
 }
